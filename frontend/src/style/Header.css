@@ -1,0 +1,12 @@
+@media only screen and (max-width: 1024px) {
+  .Navigation {
+    display: none;
+    color: #000d6b;
+    padding-top: 250px;
+    position: fixed;
+  }
+
+  .menu__active {
+    display: block;
+  }
+}
